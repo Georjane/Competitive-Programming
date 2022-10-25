@@ -8,6 +8,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 ## Hackerrank 
 - [Grading Students](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/GradingStudents.js)
 - [Bubble Sort](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/BubbleSort.js)
+- [Insertion Sort Part 1](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/InsertionSortPart1.js)
 
 
 ## Codeforce 
