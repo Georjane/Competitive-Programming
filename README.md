@@ -9,7 +9,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Grading Students](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/GradingStudents.js)
 - [Bubble Sort](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/BubbleSort.js)
 - [Insertion Sort Part 1](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/InsertionSortPart1.js)
-
+- [Counting Sort Part 1](https://github.com/Georjane/Competitive-Programming/blob/main/Hackerrank/CountingSort1.js)
 
 ## Codeforce 
 - [](https://github.com/Georjane/Coding-Challenges/blob/master/hackernoon/anagram.rb)
