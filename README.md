@@ -4,6 +4,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 ## Leetcode 
 - [Fizz buzz](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/fizzbuzz.js)
 - [Sorting the Sentence](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/SortingtheSentence.js)
+- [How Many Numbers Are Smaller Than the Current Number](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/HowManyNumbersAreSmallerThantheCurrentNumber.js)
 
 
 ## Hackerrank 
