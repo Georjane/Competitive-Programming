@@ -16,6 +16,8 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Move Zeroes](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Move%20Zeroes.js)
 - [Boats to Save People](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Boats%20to%20Save%20People.js)
 - [Rotate Array](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Rotate%20Array.js)
+- [Partition Labels](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Partition%20Labels.js)
+- [String Compression](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/String%20Compression.js)
 
 
 ## Hackerrank 
