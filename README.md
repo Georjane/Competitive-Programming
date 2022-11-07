@@ -14,6 +14,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Container With Most Water](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Container%20With%20Most%20Water.js)
 - [Middle of the Linked List](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Middle%20of%20the%20Linked%20List.js)
 - [Move Zeroes](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Move%20Zeroes.js)
+- [Boats to Save People](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Boats%20to%20Save%20People.js)
 
 
 ## Hackerrank 
