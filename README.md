@@ -8,6 +8,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Valid Parentheses](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/ValidParentheses.js)
 - [Implement Queue using Stacks](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/ImplementQueueusingStacks.js)
 - [Evaluate Reverse Polish Notation](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Evaluate%20Reverse%20Polish%20Notation.js)
+- [Min Stack](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Min%20Stack.js)
 
 
 
