@@ -10,7 +10,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Evaluate Reverse Polish Notation](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Evaluate%20Reverse%20Polish%20Notation.js)
 - [Min Stack](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Min%20Stack.js)
 - [Reverse Substrings Between Each Pair of Parentheses](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.js)
-
+- [Validate Stack Sequences](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/Validate%20Stack%20Sequences.js)
 
 
 ## Hackerrank 
@@ -28,7 +28,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 
 - Github: [@Georjane](https://github.com/Georjane)
 - Twitter: [@WittyJany](https://twitter.com/WittyJany)
-- Linkedin: [witah](https://www.linkedin.com/in/witah-georjane)
+- Linkedin: [Witah](https://www.linkedin.com/in/witah-georjane)
 
 
 
