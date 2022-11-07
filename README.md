@@ -6,6 +6,7 @@ Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows
 - [Sorting the Sentence](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/SortingtheSentence.js)
 - [How Many Numbers Are Smaller Than the Current Number](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/HowManyNumbersAreSmallerThantheCurrentNumber.js)
 - [Valid Parentheses](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/ValidParentheses.js)
+- [Implement Queue using Stacks](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/ImplementQueueusingStacks.js)
 
 
 
