@@ -1,5 +1,5 @@
 # Competitive-Programming
-Coding challenges solutions done on Leetcode, Hackerrank and Codeforces to shows skills and dedication to get a spot in one of the Africa to Silicon Valley (A2SV) cohorts.
+  Coding challenges solutions done on Leetcode, Hackerrank and Codeforce to shows skills and dedication to get a spot in one of the Africa to Silicon Valley (A2SV) cohorts.
 
 ## Leetcode 
 - [Fizz buzz](https://github.com/Georjane/Competitive-Programming/blob/main/Leetcode/fizzbuzz.js)
